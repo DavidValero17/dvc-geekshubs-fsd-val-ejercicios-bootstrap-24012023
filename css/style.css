@@ -1,0 +1,43 @@
+body {
+    
+}
+
+.contenedorNavbar {
+    height: 100px;
+    background-color: red;
+    border: solid black 1px;
+
+}
+
+.containercenter {
+    background-color: blue;
+    border: solid black 1px;
+}
+
+.rowHeight{
+    height: 350px;
+}
+
+.box2 {
+    background-color: green;
+    border: solid black 1px;
+}
+
+.box3 {
+
+}
+
+.cajitas {
+    background-color: purple;
+    height: 150px;    
+}
+
+.footer {
+    background-color: yellow;
+    height: 150px;
+    border: solid black 1px;
+}
+
+.col {
+    border: solid black 1px;
+}
